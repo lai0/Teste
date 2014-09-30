@@ -2,6 +2,5 @@
 public class Hello {
 	System.out.print("alor");
 	System.out.print("ALOR");
-	
-	Ana
+	System.out.print(":(");
 }
